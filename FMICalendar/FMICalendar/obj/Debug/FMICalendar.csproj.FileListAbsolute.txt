@@ -1,0 +1,5 @@
+C:\Users\E\Documents\GitHub\FMICalendar\FMICalendar\FMICalendar\bin\FMICalendar.dll
+C:\Users\E\Documents\GitHub\FMICalendar\FMICalendar\FMICalendar\bin\FMICalendar.pdb
+C:\Users\E\Documents\GitHub\FMICalendar\FMICalendar\FMICalendar\obj\Debug\FMICalendar.csprojResolveAssemblyReference.cache
+C:\Users\E\Documents\GitHub\FMICalendar\FMICalendar\FMICalendar\obj\Debug\FMICalendar.dll
+C:\Users\E\Documents\GitHub\FMICalendar\FMICalendar\FMICalendar\obj\Debug\FMICalendar.pdb
