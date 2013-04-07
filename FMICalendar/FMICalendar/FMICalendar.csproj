@@ -57,12 +57,31 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Boilerplate\404.html" />
+    <Content Include="Boilerplate\apple-touch-icon-114x114-precomposed.png" />
+    <Content Include="Boilerplate\apple-touch-icon-144x144-precomposed.png" />
+    <Content Include="Boilerplate\apple-touch-icon-57x57-precomposed.png" />
+    <Content Include="Boilerplate\apple-touch-icon-72x72-precomposed.png" />
+    <Content Include="Boilerplate\apple-touch-icon-precomposed.png" />
+    <Content Include="Boilerplate\apple-touch-icon.png" />
+    <Content Include="Boilerplate\crossdomain.xml" />
+    <Content Include="Boilerplate\favicon.ico" />
+    <Content Include="Boilerplate\humans.txt" />
+    <Content Include="Boilerplate\index.html" />
+    <Content Include="Boilerplate\robots.txt" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitattributes" />
+    <Content Include=".gitignore" />
+    <Content Include=".htaccess" />
+    <Content Include="Boilerplate\CHANGELOG.md" />
+    <Content Include="Boilerplate\CONTRIBUTING.md" />
+    <Content Include="Boilerplate\LICENSE.md" />
+    <Content Include="Boilerplate\README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
